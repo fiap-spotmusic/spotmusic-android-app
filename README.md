@@ -6,6 +6,10 @@ O `spotmusic-android-app` é o aplicativo móvel da SpotMusic, projetado para of
 - **Linguagem de Programação:** Kotlin
 - **Gerenciamento de Estado:** MVVM com LiveData e Data Binding
 
+## Arquitetura do Serviço de Reprodução de Músicas
+
+![Diagrama da Arquitetura do Serviço de Reprodução](./c4-model-player.drawio.png)
+
 ## Configuração e Instalação
 Para configurar e executar o `spotmusic-android-app` em seu ambiente de desenvolvimento, siga os passos abaixo:
 
